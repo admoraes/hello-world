@@ -1,2 +1,3 @@
 # hello-world
-Repositório de teste criado seguindo o tutorial do próprio site.
+
+olá! Me chamo Adriano e estou aprendendo a utilizar o github.
